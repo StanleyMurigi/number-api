@@ -23,7 +23,7 @@ Ensure you have Python 3.8+ installed.
 1. Clone this repository:
    ```bash
    git clone https://github.com/StanleyMurigi/number-api.git
-   cd number-classification-api
+   cd number-api
    ```
 2. Install dependencies:
    ```bash
